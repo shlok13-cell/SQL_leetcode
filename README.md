@@ -75,8 +75,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
