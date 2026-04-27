@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-find-invalid-ip-addresses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3482-analyze-organization-hierarchy](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3482-analyze-organization-hierarchy) |
 | [3554-find-category-recommendation-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3554-find-category-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3564-seasonal-sales-analysis) |
 ## Math
 |  |
 | ------- |
