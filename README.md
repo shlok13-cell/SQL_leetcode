@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shlok13-cell/SQL_leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3374-first-letter-capitalization-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3374-first-letter-capitalization-ii) |
 | [3451-find-invalid-ip-addresses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3482-analyze-organization-hierarchy](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3482-analyze-organization-hierarchy) |
 | [3554-find-category-recommendation-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3554-find-category-recommendation-pairs) |
