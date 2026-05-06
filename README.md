@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1965-employees-with-missing-information) |
