@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
