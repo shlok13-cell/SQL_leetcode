@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
