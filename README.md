@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -184,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
