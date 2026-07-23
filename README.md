@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0065-valid-number) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
