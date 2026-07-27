@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
