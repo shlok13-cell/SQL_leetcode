@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0060-permutation-sequence) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 <!---LeetCode Topics End-->
