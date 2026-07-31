@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0060-permutation-sequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0065-valid-number) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
