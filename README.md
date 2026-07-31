@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0065-valid-number) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1768-merge-strings-alternately) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
