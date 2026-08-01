@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0605-can-place-flowers) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
