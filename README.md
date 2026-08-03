@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
