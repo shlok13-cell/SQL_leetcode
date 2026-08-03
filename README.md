@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
@@ -371,4 +374,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
