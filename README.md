@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
