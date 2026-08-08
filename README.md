@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
