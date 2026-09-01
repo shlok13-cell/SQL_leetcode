@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
