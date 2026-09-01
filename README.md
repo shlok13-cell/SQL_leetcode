@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/shlok13-cell/SQL_leetcode/tree/master/0217-contains-duplicate) |
+| [1207-unique-number-of-occurrences](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shlok13-cell/SQL_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shlok13-cell/SQL_leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shlok13-cell/SQL_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
